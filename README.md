@@ -1,1 +1,2 @@
-# neural-networks
+Run:
+bash run.sh

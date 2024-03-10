@@ -1,0 +1,13 @@
+numpy
+jupyter
+JupyterLab
+pandas
+tabulate
+matplotlib
+plotly
+seaborn
+kaleido
+dash
+dash-core-components
+dash-html-components
+scikit-learn
